@@ -25,9 +25,9 @@ page_sections:
   content: An Insdustrial design engineering student<br>looking for a great place
     to work!
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: http://linkedin.com/arvidberntsson
+    button_text: See on LinkedIn
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
