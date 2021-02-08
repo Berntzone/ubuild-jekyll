@@ -26,7 +26,7 @@ page_sections:
     to work!
   cta:
     enabled: true
-    url: http://linkedin.com/arvidberntsson
+    url: https://www.linkedin.com/in/arvid-berntsson/
     button_text: See on LinkedIn
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
