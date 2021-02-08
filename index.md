@@ -16,16 +16,16 @@ page_sections:
   - link: "#responsive"
     link_text: About me
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: mailto:arvid@bernt.zone
+    button_text: Get in touch
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Arvid Berntsson
+  content: An Insdustrial design engineering student<br>looking for a great place
+    to work!
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
