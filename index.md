@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Arvid Berntsson
+  headline: "<strong>Arvid Berntsson</strong>"
   content: An Insdustrial design engineering student<br>looking for a great place
     to work!
   cta:
