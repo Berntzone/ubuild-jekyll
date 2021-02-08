@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
+  - link: "/projects"
     link_text: Projects
   - link: "#customize"
     link_text: CV
